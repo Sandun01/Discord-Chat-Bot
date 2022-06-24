@@ -3,8 +3,8 @@
 Realtime discord chat bot.
 
 
-<a href="https://developer.apple.com/" target="_blank"> 
-<img src="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png" alt="Discord Dev" width="750" height="500"/>
+<a href="https://discord.com/" target="_blank"> 
+<img src="https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/62a07b53139aec4c1fd07771_discord-logo.png" alt="Discord Dev" width="1140" height="620"/>
 </a> 
 
 
